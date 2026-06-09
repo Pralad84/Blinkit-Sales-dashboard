@@ -27,4 +27,4 @@ Average customer rating remained around 3.9
 Purpose 🎯
 
 The purpose of this project is to demonstrate practical skills in data visualization, dashboard creation, and business data analysis using Power BI by transforming raw sales data into meaningful insights.
-Dashboard()
+Dashboard(Screenshot 2025-08-09 232929 - Copy.png)
